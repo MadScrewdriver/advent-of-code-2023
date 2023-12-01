@@ -1,10 +1,10 @@
 ## Build
-Install gcc4.9 with multilib support (for 32-bit binaries):
+1. Install gcc4.9 with multilib support (for 32-bit binaries):
 ```
     yay -S gcc49-multilib
 ```
 
-Build using cmake and gcc4.9:
+2. Build using cmake and gcc4.9:
 ```
     mkdir build
     cd build
@@ -12,7 +12,7 @@ Build using cmake and gcc4.9:
     make
 ```
 
-Run:
+3. Run:
 ```
     ./advent_of_code_2023
 ```
