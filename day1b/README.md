@@ -14,5 +14,6 @@
 
 3. Run:
 ```
+    python reformat.py
     ./advent_of_code_2023
 ```
