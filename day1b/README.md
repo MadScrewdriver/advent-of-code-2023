@@ -1,4 +1,4 @@
-## Day 1b 
+# Day 1b 
 
 1. Run input.txt reformatter:
 ```
